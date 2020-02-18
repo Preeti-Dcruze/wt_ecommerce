@@ -1,0 +1,16 @@
+[
+    {
+        "firstName":"Preeti",
+        "lastName":"Dcruze",
+        "age":19,
+        "marks":[
+            {
+                "english":97
+            },
+            {
+                "math":98
+            },
+        ]
+        "address":"Hyderabad"
+    }
+]
